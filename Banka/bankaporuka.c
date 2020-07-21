@@ -1,0 +1,12 @@
+#define NIJEOK 0
+#define OK 1
+
+#define KUNSKO_PLACANJE 1
+#define DEVIZNO_POSLOVANJE 2
+#define CEKOVI 3
+#define KREDITI 4
+
+#define KUNSKO_PLACANJE_S 11
+#define DEVIZNO_POSLOVANJES 12
+#define CEKOVI_S 13
+#define KREDITI 14
